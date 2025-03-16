@@ -1,3 +1,41 @@
-title: "Code Promo Wisewand : AVISDEJULIE - Économisez 10% dès aujourd'hui"
-description: "Découvrez le code promo AVISDEJULIE et économisez 10% A VIE sur tous vos achats de credit WISEWAND"
+title: "✅ Code Promo Wisewand : AVISDEJULIE - Économisez 10% dès aujourd'hui"
+description: "Découvrez le code promo AVISDEJULIE et économisez 10% A VIE sur tous vos achats de credit WISEWAND🔥"
+tagline: "🚀"
+author: "Ludovic - AvisDeJulie.fr"
+
+# SEO Meta Tags
+lang: "fr"
+logo: "/assets/images/logo_wisewand.png"
+
+# Désactiver la concaténation du titre avec la description
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      seo:
+        title: "✅ Code Promo Wisewand : AVISDEJULIE - Économisez 10% dès aujourd'hui"
+        description: "Découvrez le code promo AVISDEJULIE et économisez 10% A VIE sur tous vos achats de credit WISEWAND🔥"
+
+# Jekyll SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# Réseaux sociaux
+social:
+  name: "AvisDeJulie"
+  links:
+    - "https://avisdejulie.fr"
+    - "https://wisewand.ai/?fpr=ludovic64"
+
+# Theme du site (ex: Cayman)
 theme: jekyll-theme-cayman
+
+# Exclure les fichiers inutiles pour le SEO
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+force_rebuild: true
