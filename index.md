@@ -1,3 +1,7 @@
+<head>
+<meta name="google-site-verification" content="tJs52ZxlNoi0TsnYIRzjdqzFjXIQpIWa2ZGyIcAlCpA" />
+</head>
+<BODY>
 <h1>Wisewand - Code Promo AVISDEJULIE - 10% A VIE !</h1>
 <h2>L'outil de r&eacute;daction IA incontournable pour la gestion de vos projets : WiseWand</h2>
 <p><a title="WiseWand Code Promo" href="https://wisewand.ai/?fpr=ludovic64">[Activer le code promo ici] : WiseWand Code Promo AVISDEJULIE</a></p>
@@ -23,3 +27,4 @@
 <p>✅ <strong>Adoptez Wisewand</strong> : d&eacute;cuplez vos performances dans vos campagnes d&rsquo;e-mailing, vos landing pages et vos contenus web.</p>
 <p>✅ <strong>&Eacute;conomisez 10 %</strong> : lib&eacute;rez un budget suppl&eacute;mentaire pour d&rsquo;autres actions marketing.</p>
 <p>✅ <strong>Concentrez-vous sur l&rsquo;essentiel</strong> : passez plus de temps avec votre famille ou sur des t&acirc;ches &agrave; forte valeur ajout&eacute;e.</p>
+</BODY>
